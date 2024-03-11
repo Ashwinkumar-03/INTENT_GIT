@@ -188,7 +188,11 @@ public class activity_second extends AppCompatActivity {
 ## OUTPUT:
 ![1](https://github.com/Ashwinkumar-03/INTENT_GIT/assets/118663725/eaf6cdc9-04f4-461e-84d0-e3b82a7192a8)
 
+### Implicit:
 ![2imp](https://github.com/Ashwinkumar-03/INTENT_GIT/assets/118663725/e1640ffa-826e-42bf-81ff-fc7f6613a54b)
+
+### Explicit:
+![Explicit](https://github.com/Ashwinkumar-03/INTENT_GIT/assets/118663725/7a1a9d14-6ec5-46b4-b1eb-35316271bebd)
 
 
 ## RESULT:
